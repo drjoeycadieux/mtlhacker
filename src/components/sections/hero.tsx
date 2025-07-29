@@ -18,9 +18,9 @@ export function HeroSection() {
               Get In Touch
             </Button>
           </a>
-          <a href="#projects">
+          <a href="#skills">
             <Button size="lg" variant="outline" className="font-headline">
-              View My Work <ArrowDown className="ml-2 w-4 h-4" />
+              My Skills <ArrowDown className="ml-2 w-4 h-4" />
             </Button>
           </a>
         </div>
